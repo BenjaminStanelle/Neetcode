@@ -1,2 +1,2 @@
 # Neetcode
-This repository is completed neetcode assignments
+This repository is my completed neetcode assignments
